@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      News Inpires
+title:      News G Points
 date:       2017-09-07
 author:     Maple
 header-img: img/post-bg-re-vs-ng2.jpg
