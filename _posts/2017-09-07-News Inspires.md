@@ -10,6 +10,6 @@ tags:
 ---
 
 ## What stories news brings 
-The media need G points, investors are looking for G point to show outside world. 
+The media need G points, investors are looking for G point to show outside world. People like to see G point story.
 
 Speculation and publicity begans.
