@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Developer's pattern
+title:      Join Community
 date:       2017-09-14
 author:     Maple
 header-img: img/post-bg-re-vs-ng2.jpg
