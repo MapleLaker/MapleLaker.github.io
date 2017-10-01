@@ -11,6 +11,6 @@ tags:
 
 ## List
 
-![image](https://github.com/MapleLaker/MapleLaker.github.io/blob/master/img/bitcoin-address.png)
+![image](https://github.com/MapleLaker/MapleLaker.github.io/blob/master/img/bitcoin-address.png?raw=true)
 
 
