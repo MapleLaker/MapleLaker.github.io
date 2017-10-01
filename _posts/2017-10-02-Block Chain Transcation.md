@@ -17,9 +17,7 @@ tags:
 ![image](https://github.com/MapleLaker/MapleLaker.github.io/blob/master/img/bt-yanzhengxitong.png?raw=true)
 
 当你要花钱的时候，需要证明自己是这个公钥的真正拥有者。可以拿出信息，加上私钥，运算出签名。
-![image](https://github.com/MapleLaker/MapleLaker.github.io/blob/master/img/bt-yanzhengxitong-qianming.png	
- 
-?raw=true)
+![image](https://github.com/MapleLaker/MapleLaker.github.io/blob/master/img/bt-yanzhengxitong-qianming.png?raw=true)
 
 别人拿到签名，再加上信息，就可以放到另外一个函数中，运算下，看是否和公钥相匹配。这样，不用看你的私钥，通过数学的方式，就可以验证你是否为私钥和公钥的拥有者，
 ![image](https://github.com/MapleLaker/MapleLaker.github.io/blob/master/img/bt-yanzhengxitong-yanzheng.png
