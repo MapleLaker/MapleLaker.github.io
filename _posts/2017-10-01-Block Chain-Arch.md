@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      How to get bitcoin address
-date:       2017-09-29
+title:      Block Chain-Arch
+date:       2017-10-01
 author:     Maple
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
