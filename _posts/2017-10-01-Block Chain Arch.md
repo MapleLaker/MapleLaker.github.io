@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Block Chain-Arch
+title:      Block Chain Arch
 date:       2017-10-01
 author:     Maple
 header-img: img/post-bg-re-vs-ng2.jpg
